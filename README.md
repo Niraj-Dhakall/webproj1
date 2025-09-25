@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-https://i.imgur.com/xLNzWBw.mp4
+[https://i.imgur.com/xLNzWBw.mp4](https://i.imgur.com/WNzlpmf.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Add GIF tool here
