@@ -115,7 +115,7 @@ main {
     text-decoration: none;
 }
 
-/* 404 Page CSS */
+
 
 .fof-container{
     display: table;
@@ -143,7 +143,7 @@ main {
     to {box-shadow: inset -3px 0px 0px transparent;}
 }
 
-/* Detail Page CSS*/
+
 
 .gift-info {
     display: flex;
@@ -229,7 +229,6 @@ main {
     line-height: 1.4;
 }
 
-/* Responsive design for team details */
 @media (max-width: 768px) {
     .team-info {
         flex-direction: column;
