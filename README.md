@@ -4,7 +4,7 @@ Submitted by: **Niraj Dhakal**
 
 About this web app: **App description here**
 
-Time spent: **12** hours
+Time spent: **5** hours
 
 ## Required Features
 
