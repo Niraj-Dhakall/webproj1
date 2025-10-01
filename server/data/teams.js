@@ -14,21 +14,21 @@ const teamData = [
     "majorWins": ["LCK Champions 2022", "LCK Champions 2023", "LCK Champions 2024", "Worlds Top 4 finishes"]
   },
   {
-    "teamName": "JD Gaming (JDG)",
+    "teamName": "JDG",
     "game": "League of Legends",
     "country": "China",
     "image": "https://upload.wikimedia.org/wikipedia/en/7/7d/JD_Gaming_logo.png",
     "majorWins": ["LPL Champions 2020", "LPL Champions 2022", "LPL Champions 2023", "MSI 2023 Champions"]
   },
   {
-    "teamName": "Bilibili Gaming (BLG)",
+    "teamName": "BLG",
     "game": "League of Legends",
     "country": "China",
     "image": "https://upload.wikimedia.org/wikipedia/en/6/66/Bilibili_Gaming_logo_%282021%29.png",
     "majorWins": ["MSI 2023 Finalist", "LPL 2024 Spring Champions"]
   },
   {
-    "teamName": "G2 Esports",
+    "teamName": "G2",
     "game": "League of Legends",
     "country": "Europe (Germany HQ)",
     "image": "https://upload.wikimedia.org/wikipedia/en/1/12/Esports_organization_G2_Esports_logo.svg",
@@ -42,14 +42,14 @@ const teamData = [
     "majorWins": ["Worlds 2011 Champions", "Multiple LEC titles"]
   },
   {
-    "teamName": "Team Liquid",
+    "teamName": "TeamLiquid",
     "game": "League of Legends",
     "country": "USA",
     "image": "https://upload.wikimedia.org/wikipedia/en/f/f1/Team_Liquid_logo.svg",
     "majorWins": ["LCS Champions 2018", "LCS Champions 2019", "MSI 2019 Finalist"]
   },
   {
-    "teamName": "Cloud9 (C9)",
+    "teamName": "Cloud9",
     "game": "League of Legends",
     "country": "USA",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cloud9_logo_c._2023.svg/1200px-Cloud9_logo_c._2023.svg.png",
@@ -70,7 +70,7 @@ const teamData = [
     "majorWins": ["Worlds 2022 Champions"]
   },
   {
-    "teamName": "Royal Never Give Up (RNG)",
+    "teamName": "RNG",
     "game": "League of Legends",
     "country": "China",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/RNG_logo.svg/1200px-RNG_logo.svg.png",
@@ -86,4 +86,3 @@ const teamData = [
 ]
 
 
-export default teamData;
